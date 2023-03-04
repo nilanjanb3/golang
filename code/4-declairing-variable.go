@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+const PI float32 = 3.14 // This is a global constant
+
 func main() {
 
 	var str1, str2 string = "hello", "world"
@@ -22,5 +24,7 @@ func main() {
 	// s = 100 // This is an error
 
 	fmt.Println(s)
+
+	fmt.Println(PI)
 
 }
