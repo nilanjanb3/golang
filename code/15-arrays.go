@@ -21,6 +21,7 @@ func main() {
 	for index, element := range names {
 		fmt.Println(index, "=>", element)
 	}
+	// fmt.Println(cap(names))
 	fmt.Println("====================================")
 
 	mat := [2][2]int{{1, 2}, {3, 4}}
