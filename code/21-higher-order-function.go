@@ -15,6 +15,13 @@ func getPerimeter(r float64) float64 {
 func higherOrder(r float64, calc func(r float64) float64) {
 	fmt.Println(calc(r))
 }
+
+func anotherHigherOrderFunction() func() {
+
+	return func() {
+		fmt.Println("Hello Go!")
+	}
+}
 func main() {
 	action := map[int]func(r float64) float64{
 		1: getArea,
@@ -29,5 +36,10 @@ func main() {
 	fmt.Println(input, r)
 
 	higherOrder(r, action[input])
+
+	fmt.Println("=============================================")
+
+	x := anotherHigherOrderFunction()
+	x()
 
 }
