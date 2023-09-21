@@ -2,18 +2,12 @@ package main
 
 import (
 	"fmt"
-	"strings"
 )
 
-func printStrings(names ...string) (names_c []string) {
-	names_c = []string{}
-	for _, value := range names {
-		names_c = append(names_c, strings.ToUpper(value))
-	}
-	return
-}
-
 func main() {
-	result := printStrings("Joe", "Monica", "Gunther")
-	fmt.Println(result)
+	i := 20
+	var f1 float32 = float32(i)
+	fmt.Println(i)
+	fmt.Printf("%T \n", i)
+	fmt.Printf("%T \n", f1)
 }

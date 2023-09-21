@@ -3,6 +3,10 @@ package main
 import "fmt"
 
 func main() {
+	/*
+		Slices are similar to arrays, but are more powerful and flexible. Like arrays, slices are also used to store multiple values of the same type in a single variable.
+		However, unlike arrays, the length of a slice can grow and shrink as you see fit.
+	*/
 	var arr [10]int = [10]int{10, 20, 30, 40, 50, 60, 70, 80, 90, 100}
 
 	slice1 := arr[2:5]
