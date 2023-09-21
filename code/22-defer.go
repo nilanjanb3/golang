@@ -18,4 +18,5 @@ func main() {
 	printName()
 	defer printRoll() // defer will wait for surroundings to complete first
 	printCollege()
+	fmt.Println("test")
 }
