@@ -47,4 +47,10 @@ GoLang learnings
     * [03-Compairing Struct](https://www.geeksforgeeks.org/structure-equality-in-golang/)
     * [04-Method Set in GoLang](https://www.geeksforgeeks.org/methods-in-golang/)
     * [05-Interface](https://www.geeksforgeeks.org/interfaces-in-golang/)
+* 08-Some Other Top Resources
+    * [01-Go by example](https://gobyexample.com/)
+    * [02-Gophercises](https://courses.calhoun.io/courses)
+    * [03-11 Go Projects](https://youtu.be/jFfo23yIWac?list=LL)
+    * [04-GoLang Youtube Course](https://youtu.be/un6ZyFkqFKo)
+    
     
