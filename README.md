@@ -7,7 +7,7 @@ GoLang learnings
     * [01-What is Go & Why we should learn ?](https://www.freecodecamp.org/news/what-is-go-programming-language/)
     * [02-First program in Go & it's components](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-program-in-go)
 * 02-Data Types & Variables
-    * [01-What is datatype in Go?](https://www.codecademy.com/resources/docs/go/data-types)
+    * [01-What is a datatype in Go?](https://www.codecademy.com/resources/docs/go/data-types)
     * [02-static vs dynamic type language](https://www.baeldung.com/cs/statically-vs-dynamically-typed-languages)
     * [03-Data types in Go](https://www.geeksforgeeks.org/data-types-in-go/)
     * [04-Variable declairation](https://www.geeksforgeeks.org/go-variables/?ref=lbp)
@@ -52,5 +52,6 @@ GoLang learnings
     * [02-Gophercises](https://courses.calhoun.io/courses)
     * [03-11 Go Projects](https://youtu.be/jFfo23yIWac?list=LL)
     * [04-GoLang Youtube Course](https://youtu.be/un6ZyFkqFKo)
+    * [05-GoLang For DevOps PlayList by Sandip Das](https://www.youtube.com/playlist?list=PL7kXAf0BmEquweglCJ9BkSvWXydRDrGfN)
     
     
