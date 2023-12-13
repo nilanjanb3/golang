@@ -28,6 +28,7 @@ GoLang learnings
     * [01-Arrays in Go](https://www.geeksforgeeks.org/arrays-in-go/)
     * [02-Slices in Go](https://www.geeksforgeeks.org/slices-in-golang/)
     * [03-Maps in Go](https://www.geeksforgeeks.org/golang-maps/)
+    * [04-Make Keyword](https://www.scaler.com/topics/golang/golang-make-and-new-keywords/)
 * 05-Functions
     * [01-Functions in Go](https://www.geeksforgeeks.org/functions-in-go-language/)
     * [02-single, multiple & named return](https://www.w3schools.com/go/go_function_returns.php)
